@@ -9,7 +9,6 @@ streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
 streamlit.text(' 🍞 🐔 Hard-Boiled Free-Range Egg')
 
-streamlit.multiselect("Pick some fruits:", list(my_fruit_list.index))
 
 
 import pandas
