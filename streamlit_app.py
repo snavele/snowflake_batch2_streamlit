@@ -68,3 +68,4 @@ if streamlit.button('Add a Fruit to list'):
     back_from_function = insert_row_snowflake(add_my_fruit)
     streamlit.text(back_from_function)
 #streamlit.write('The user entered ', add_my_fruit)
+#https://snavele-first-streamlit-app-streamlit-app-b2hah3.streamlit.app/
